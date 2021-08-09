@@ -19,7 +19,7 @@ struct segment_tree {
     }
     void switch_range(int a, int b) {
         switch_point(a);
-        if (a != b && b != n-1) switch_point(b+1);
+        switch_point(b+1);
     }
     bool query(int b) {
         b += n; int a = n;
