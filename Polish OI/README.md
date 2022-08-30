@@ -15,7 +15,7 @@
 | 2010 | XVII OI   | Gildie (gil.cpp) |
 | 2011 | XVIII OI  | Lizak (liz.cpp) |
 | 2012 | XIX OI    | Bony (bon.cpp) |
-| 2013 | XX OI     | Morskie opowieści (mor.cpp), Bajtokomputer (baj.cpp), Gdzie jest jedynka? (gdz.cpp), Łańcuch kolorowy (lan.cpp), Polaryzacja (pol.cpp) |
+| 2013 | XX OI     | Morskie opowieści (mor.cpp), Bajtokomputer (baj.cpp), Gdzie jest jedynka? (gdz.cpp), Łańcuch kolorowy (lan.cpp), Laser (las.cpp), Polaryzacja (pol.cpp) |
 | 2014 | XXI OI    | Kurierzy (kur.cpp), Ptaszek (pta.cpp), FarmerCraft (far.cpp), Mrowisko (mro.cpp) |
 | 2015 | XXII OI   | Pustynia (pus.cpp), Wilcze doły (wil.cpp), Kolekcjoner Bajtemonów (kol.cpp), Wycieczki (wyc.cpp) |
 | 2016 | XXIII OI  | Wcale nie Nim (wca.cpp), Pracowity Jaś (pra.cpp), Żywopłot (zyw.cpp), Parada (par.cpp) |
