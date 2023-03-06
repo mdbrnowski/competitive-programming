@@ -10,7 +10,7 @@
 | 2005 | XII OI    | Skoczki (sko.cpp) |
 | 2006 | XIII OI   | |
 | 2007 | XIV OI    | |
-| 2008 | XV OI     | Cło (clo.cpp), Blokada (blo.cpp) |
+| 2008 | XV OI     | Cło (clo.cpp), Plakatowanie (pla.cpp), Blokada (blo.cpp) |
 | 2009 | XVI OI    | Słonie (slo.cpp) |
 | 2010 | XVII OI   | Gildie (gil.cpp) |
 | 2011 | XVIII OI  | Lizak (liz.cpp) |
